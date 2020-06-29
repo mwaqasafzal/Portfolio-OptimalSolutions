@@ -1,0 +1,73 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+}
+
+#topHead{
+  background-color:#dfe6e9;
+  border-bottom: 1px solid silver;
+}
+
+#topHead a{
+  font-size:0.8rem;
+}
+
+#bottomHead{
+  background-color:#4e8cc7da;
+}
+#bottomHead a{
+  font-size:1.2rem;
+  font-weight:600;
+}
+
+header img{
+  background-color:#669fd48e;
+}
+footer{
+ 
+  background-color:#5797ebd2;
+ 
+}
+
+footer h3{
+  color:#dfe6e9;
+}
+
+footer a{
+  font-size:1.1rem;
+  color:#dfe6e9;
+}
+
+.footerBottom{
+  background-color: #6397f8;;
+  text-align: center;
+}
+
+/* start of hero section */
+
+.hero-section{
+  background-color:#79bfeee8;
+  color:#dfe6e9;
+}
+/* end of hero section */
+
+/* START:section 3 */
+
+#sec3{
+  background-color:#4e8cc7da;
+}
+
+/*  END:section 3 */
+
+/* About Us Page */
+/* START:section 1 about us */
+#aboutus{
+  background-color:#e9ecef;
+}
+/* END:section1 about us */
+
+.set-img{
+  height:200px;
+  width:300px;
+}
